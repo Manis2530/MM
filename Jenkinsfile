@@ -1,4 +1,3 @@
-ABSARA C S 502303, Now
 pipeline {
     agent any
 
